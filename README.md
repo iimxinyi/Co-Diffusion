@@ -33,7 +33,6 @@ python objective_quality.py
 To run all metrics at once, run:
 
 ```
-cd bench
 bash run_all.sh
 ```
 
