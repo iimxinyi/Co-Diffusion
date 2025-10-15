@@ -5,4 +5,5 @@
 ``` sh
 conda create -n bench python=3.8
 conda activate bench
+cd bench
 ```
