@@ -14,4 +14,4 @@ pip install -r requirements_bench.txt
 
 Step 2: Third-Party Model Download
 
-Download the third-party model parameters according to the instructions in the .md file under bench/pretrained
+Download the third-party model parameters according to the instructions in the `.md` file under `bench/pretrained`.
