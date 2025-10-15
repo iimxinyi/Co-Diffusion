@@ -1,3 +1,3 @@
 # Co-Diffusion
 
-## Quick Start for Bench
+## 2 Quick Start for Bench (Benchmark for Video Generative Models)
