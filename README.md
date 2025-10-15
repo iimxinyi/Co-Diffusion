@@ -6,4 +6,5 @@
 conda create -n bench python=3.8
 conda activate bench
 cd bench
+pip install -r requirements_bench.txt
 ```
