@@ -21,13 +21,12 @@ Download the third-party model parameters according to the instructions in the `
 For a specific metric, run:
 
 ```
-cd bench
-python prompt_alignment.py
-python scene_consistency.py
-python dynamic_degree.py
-python motion_smoothness.py
-python temporal_consistency.py
-python objective_quality.py
+python ./bench/prompt_alignment.py
+python ./bench/scene_consistency.py
+python ./bench/dynamic_degree.py
+python ./bench/motion_smoothness.py
+python ./bench/temporal_consistency.py
+python ./bench/objective_quality.py
 ```
 
 To run all metrics at once, run:
